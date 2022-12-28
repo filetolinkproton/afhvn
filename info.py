@@ -44,7 +44,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "EvaMaria")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/heavebrequest')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/heavenrequest')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/heavenforyouall')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Heavens Chat')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
